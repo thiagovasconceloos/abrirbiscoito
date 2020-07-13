@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ea2a206451847515ce30b07dffe93820",
+    "revision": "fb5842b5af13efbacaff5f371d3b52d6",
     "url": "/abrirbiscoito/index.html"
   },
   {
-    "revision": "b0bbdd8d26203b2fee41",
+    "revision": "3c588ede5e488c3cae23",
     "url": "/abrirbiscoito/static/css/main.b975d8d9.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/abrirbiscoito/static/js/2.32d81f7f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b0bbdd8d26203b2fee41",
-    "url": "/abrirbiscoito/static/js/main.4b62faff.chunk.js"
+    "revision": "3c588ede5e488c3cae23",
+    "url": "/abrirbiscoito/static/js/main.8a9c914c.chunk.js"
   },
   {
     "revision": "58371ac63cfd8cfb692d",
