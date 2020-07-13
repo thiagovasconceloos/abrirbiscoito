@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/abrirbiscoito/static/css/main.b975d8d9.chunk.css",
+    "main.js": "/abrirbiscoito/static/js/main.4b62faff.chunk.js",
+    "main.js.map": "/abrirbiscoito/static/js/main.4b62faff.chunk.js.map",
+    "runtime-main.js": "/abrirbiscoito/static/js/runtime-main.1bdc30f3.js",
+    "runtime-main.js.map": "/abrirbiscoito/static/js/runtime-main.1bdc30f3.js.map",
+    "static/js/2.32d81f7f.chunk.js": "/abrirbiscoito/static/js/2.32d81f7f.chunk.js",
+    "static/js/2.32d81f7f.chunk.js.map": "/abrirbiscoito/static/js/2.32d81f7f.chunk.js.map",
+    "index.html": "/abrirbiscoito/index.html",
+    "precache-manifest.6c73d8a8fa315696fe67fd915cf77e60.js": "/abrirbiscoito/precache-manifest.6c73d8a8fa315696fe67fd915cf77e60.js",
+    "service-worker.js": "/abrirbiscoito/service-worker.js",
+    "static/css/main.b975d8d9.chunk.css.map": "/abrirbiscoito/static/css/main.b975d8d9.chunk.css.map",
+    "static/js/2.32d81f7f.chunk.js.LICENSE.txt": "/abrirbiscoito/static/js/2.32d81f7f.chunk.js.LICENSE.txt",
+    "static/media/biscoito.png": "/abrirbiscoito/static/media/biscoito.a2bd231c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1bdc30f3.js",
+    "static/js/2.32d81f7f.chunk.js",
+    "static/css/main.b975d8d9.chunk.css",
+    "static/js/main.4b62faff.chunk.js"
+  ]
+}
