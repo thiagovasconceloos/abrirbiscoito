@@ -36,8 +36,9 @@ render(){
     return(
         <div className="container"> 
             <img src={require('./assets/biscoito.png')}></img>
-             <Botao nome="Abrir Biscoito" acaoBtn={this.quebraBiscoito}/>
+             <Botao nome="Gerar" acaoBtn={this.quebraBiscoito}/>
              <h3 className="textoFrase"> {this.state.textoFrase} </h3>
+             <h3>Created by Thiago Vasconcelos</h3>
         </div>         
     );
 }
